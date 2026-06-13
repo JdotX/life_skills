@@ -1,0 +1,6 @@
+# 个人生成数据
+cooking-program-manager/data/weekly_menu_*.csv
+cooking-program-manager/data/shopping_plan_*.csv
+cooking-program-manager/data/history.csv
+cooking-program-manager/data/bookmarks.txt
+cooking-program-manager/data/config.json
